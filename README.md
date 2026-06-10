@@ -1,16 +1,42 @@
-## Hi there 👋
+👋 Hi there, I'm David Augustine
+📊 Data Analyst
 
-<!--
-**Darmian01/Darmian01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am passionate about transforming raw data into meaningful insights that drive informed decisions and business growth.
 
-Here are some ideas to get you started:
+🚀 About Me
+📊 Data Analyst passionate about storytelling through data.
+📈 Focused on building practical data projects and gaining industry experience.
+💡 Interested in data analytics and business intelligence.
+🎯 Goal: Turning data into business value.
+🛠️ Skills & Tools
+Languages
+SQL
+Python
+DAX
+Data Analysis & Visualization
+Microsoft Excel
+Power BI
+Pandas
+NumPy
+Version Control
+Git
+GitHub
+📂 Featured Projects
+📊 Sales Dashboard in Power BI
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Built interactive dashboards to monitor KPIs and business performance.
+
+🧹 Data Cleaning with Python
+
+Used Pandas and NumPy to clean and analyze datasets.
+
+📈 Business Analytics Projects
+
+Analyzing datasets to uncover trends and provide actionable insights.
+
+📫 Connect With Me
+LinkedIn: https://www.linkedin.com/in/darmian-augustine-60a72a3b7
+Email: daveaustine814@gmail.com
+📈 GitHub Stats
+
+⭐ Turning data into business value.
