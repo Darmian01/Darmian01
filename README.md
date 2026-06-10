@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm David Augustine
+# 👋 Hi there, I'm Darmian Augustine
 
 ### 📊 Data Analyst
 
